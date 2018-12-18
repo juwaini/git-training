@@ -1,0 +1,2 @@
+class Bulatan:
+    pass
